@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ethnus-age-calculator/static/css/main.22cba496.css",
+    "main.js": "/Ethnus-age-calculator/static/js/main.49ceff50.js",
+    "static/js/787.1715cc32.chunk.js": "/Ethnus-age-calculator/static/js/787.1715cc32.chunk.js",
+    "index.html": "/Ethnus-age-calculator/index.html",
+    "main.22cba496.css.map": "/Ethnus-age-calculator/static/css/main.22cba496.css.map",
+    "main.49ceff50.js.map": "/Ethnus-age-calculator/static/js/main.49ceff50.js.map",
+    "787.1715cc32.chunk.js.map": "/Ethnus-age-calculator/static/js/787.1715cc32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cba496.css",
+    "static/js/main.49ceff50.js"
+  ]
+}
