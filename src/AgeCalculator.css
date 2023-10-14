@@ -1,0 +1,57 @@
+/* AgeCalculator.css */
+
+/* Style for the entire AgeCalculator component */
+.AgeCalculator {
+  font-family: Arial, sans-serif;
+  max-width: 400px; /* Set a maximum width for the container */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  display: flex; /* Use flexbox to center items vertically */
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Center items horizontally */
+}
+/* Style for the h1 element */
+.AgeCalculator h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Style for the label element */
+.AgeCalculator label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+/* Style for the input element */
+.AgeCalculator input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* Style for the button element */
+.AgeCalculator button {
+  display: block;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+
+/* Style for the age paragraph */
+.AgeCalculator p {
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: center; /* Center the text within the container */
+}
